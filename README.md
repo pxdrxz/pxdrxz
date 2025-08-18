@@ -29,8 +29,8 @@ Atualmente estou trabalhando em projetos relacionados a **fintechs**, explorando
 
 ## 📊 GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)  
+![Pedro's GitHub stats](-)  
+![Top Langs](-)  
 
 ---
 
