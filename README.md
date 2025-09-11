@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Pedro Ferreira, a Brazilian Junior Developer
+# 👋 Hi there! I'm Pedro Ferreira, a Brazilian Jr. Web Developer
 
 **Full Stack Developer | Fintech Enthusiast | Java & React | SQL Server | Node.js**
 
