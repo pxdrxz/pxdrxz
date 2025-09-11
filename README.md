@@ -1,11 +1,10 @@
-# 👋 Hi there! I'm Pedro Ferreira  
+# 👋 Hi there! I'm Pedro Ferreira, a brazilian Junior Developer.
 
 **Full Stack Developer | Fintech Enthusiast | Java & React | SQL Server | Node.js**
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia, inovação e resolução de problemas.  
-Meu foco está em **front-end e back-end**, sempre buscando boas práticas, performance e escalabilidade.  
-Atualmente estou trabalhando em projetos relacionados a **fintechs**, explorando o universo de pagamentos, dados e soluções financeiras digitais.  
-
+Welcome to my GitHub! I’m a developer passionate about technology, innovation, and problem-solving.
+My focus is on front-end and back-end, always striving for best practices, performance, and scalability.
+I’m currently working on projects related to fintechs, exploring the world of payments, data, and digital financial solutions.
 ---
 
 ## 🚀 Tech Stack
@@ -14,31 +13,23 @@ Atualmente estou trabalhando em projetos relacionados a **fintechs**, explorando
 - **Frameworks & Libraries:** React.Js, Node.js, Bootstrap, Angular.Js...  
 - **Tools:** Git, Postman, SoapUI...  
 - **Other:** Clean Code, APIs REST, SQL Server...  
-- **Cloud & DevOps:** Tomcat, Docker... (ambos em nível acadêmico)  
+- **Cloud & DevOps:** Tomcat, Docker... (both at academic level)  
 
 ---
 
 ## 🌱 A Bit About Me
 
-- 🎓 Sempre aprendendo sobre arquitetura de software, boas práticas e performance  
-- 💡 Gosto de resolver problemas complexos e trabalhar em equipe  
-- 🚀 Tenho interesse especial no setor **Fintech** e no impacto da tecnologia em soluções financeiras  
-- 🎮 Fora do código, também faço freelancer de tradutor e trabalho com estilo para produções artísticas. 
-
----
-
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](-)  
-![Top Langs](-)  
-
+🎓 Always learning about software architecture, best practices, and performance
+💡 I enjoy solving complex problems and working in a team
+🚀 I have a strong interest in the **Fintech** sector and the impact of technology on financial solutions
+🎮 Outside of coding, I also work as a freelance translator and with styling for artistic productions
 ---
 
 ## 🔗 Let's Connect  
 
-- 🌐 [Portfólio](em obras ⚠️🔜)  
+- 🌐 [Portfolio](em obras ⚠️🔜)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-de-carvalho-ferreira-6b524523b/)  
-- 📧 [E-mail Profissional](pedrohenriquecferreira@gmail.com)  
+- 📧 [Professional E-mail](pedrohenriquecferreira@gmail.com)  
 
 <!--
 **pxdrxz/pxdrxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
