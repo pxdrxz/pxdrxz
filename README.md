@@ -11,7 +11,7 @@ I’m currently working on projects related to **fintechs**, exploring the world
 ## 🚀 Tech Stack
 
 - **Languages:** Java, JavaScript, SQL  
-- **Frameworks & Libraries:** React.js, Node.js, Bootstrap, Angular.js  
+- **Frameworks & Libraries:** React.js, Node.js, Vue.js, Bootstrap
 - **Tools:** Git, Postman, SoapUI  
 - **Other:** Clean Code, REST APIs, SQL Server  
 - **Cloud & DevOps:** Tomcat, Docker (academic level)  
